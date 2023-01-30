@@ -1,0 +1,11 @@
+• Introduction to PyTorch
+• Tensors
+• Data
+• Transforms
+• Model Network
+• Autograd + torch.nn
+• Train
+• TensorBoard
+• Save and Load models.
+• Explainable AI
+Deployment -- 
